@@ -208,6 +208,7 @@ Create a `gatsby.config.js` in the root of your project:
 module.exports = function(config, env) {
   // edit loaders here
 }
+```
 
 Consider the following example which removes the default css loader
 and replaces it with a loader that uses css-modules.
